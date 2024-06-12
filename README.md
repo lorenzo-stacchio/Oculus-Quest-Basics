@@ -1,6 +1,12 @@
 # Meta XR SDK - Oculus Quest 2 Basics
 
+<p align="center">
+  <img src="assets\header.png" alt="header" />
+</p>
+
 Welcome to the **Meta XR SDK Basics** repository! This repository serves as an introduction to the fundamental concepts of the Meta XR SDK, specifically designed for developing applications for the Oculus Quest 2.
+
+This repository will be continually updated basing on the demos developed in class in two different Universities, namely [Università Politecnica delle Marche](https://www.univpm.it/Entra/Universita_Politecnica_delle_Marche_Home/L/1) (Engineernig) and [University of Macerata](https://www.unimc.it/en?set_language=en) (Social Sciences and Humanities).
 
 ## Table of Contents
 
